@@ -3,7 +3,7 @@
 
 
 ## My website:
-[PogWorksStudios](pog.works)
+[PogWorksStudios](http://pog.works.github.io/)
 
 ## Projects:
 * Garden Of Eden discord bot
