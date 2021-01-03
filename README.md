@@ -6,5 +6,5 @@
 [PogWorksStudios](https://soulyzero.github.io/)
 
 ## Projects:
-* Garden Of Eden discord bot
+* PogWorks discord bot
 * Your mom
