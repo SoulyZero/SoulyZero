@@ -1,7 +1,6 @@
 # Welcome
 
 * 🤖 PogWorks Discord bot
-* ✅ items
 * 😂 Your mom
  
 ## My hero
